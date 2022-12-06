@@ -82,6 +82,49 @@ void multi(){
   return a*b;
 }
    
+   -----------------------------------------------------------------------------------------------------------------
+   
+  # int main() 
+   
+   Explination :- 
+   
+   
+   and we write
+   
+   
+   # Void main(){
+   
+   }
+   so it will show the error.
+   
+   
+   Q ->
+   
+   why we write 
+   
+   return 0;
+   or 
+   return - 1;
+   
+   
+   
+   why we not write 
+   
+   return 100;
+   
+   ????
+
+   ================================
+   
+   we use return to come out from the function.
+   
+   
+   
+   
+   
+   
+
+   
    
    
  
