@@ -20,7 +20,7 @@ int main() {
 
 // lets understand global and local variable 
 
-// there is function bleow greert
+// there is function bleow greert in that we declared #GLobal variable 
 void greet() {
     int a = 10 ; //local variable 
     int b = 30 ;//local variable 
@@ -29,7 +29,7 @@ void greet() {
 }
 
 
-// global variable 
+# global variable 
 
 int c = 10 ;
 
@@ -61,7 +61,7 @@ int main() {
 
 // lets understand global and local variable 
 
-// there is function bleow greert
+###// there is function bleow greert
 void greet() {
     int a = 10 ; //local variable 
     int b = 30 ;//local variable 
@@ -70,7 +70,7 @@ void greet() {
 }
 
 
-// global variable 
+###// global variable 
 
 int c = 10 ;
 
@@ -81,5 +81,9 @@ int d = 20 ;
 void multi(){
   return a*b;
 }
+   
+   
+   
+ 
 
 
